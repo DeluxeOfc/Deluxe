@@ -31,9 +31,9 @@ Atualmente focado em desenvolvimento web.
 
 ## 📂 Projetos em destaque
 
-### 🔹 [Nome do Projeto](https://github.com/DeluxeOfc/nome-do-repositorio)
-Descrição curta do que o projeto faz e qual problema resolve.
-`Tecnologias usadas` `ex: Python` `ex: Flask`
+🔹 Detector de Plágio Simples
+Ferramenta que compara dois textos e calcula o grau de similaridade entre eles, identificando possíveis plágios usando os algoritmos de Jaccard e Cosseno.
+Python NLP Algoritmos Pytest
 
 ### 🔹 [Nome do Projeto 2](https://github.com/DeluxeOfc/nome-do-repositorio-2)
 Descrição curta do que o projeto faz e qual problema resolve.
