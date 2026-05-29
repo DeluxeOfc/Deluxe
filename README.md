@@ -41,13 +41,6 @@ Calcula o consumo elétrico de aparelhos domésticos, estima o custo mensal e ge
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=DeluxeOfc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DeluxeOfc&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Onde me encontrar
 
