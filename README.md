@@ -38,6 +38,7 @@ Ferramenta que compara dois textos e calcula o grau de similaridade entre eles, 
 ### 🔹 [Analisador de Consumo de Energia](https://github.com/DeluxeOfc/analisador-energia)
 Calcula o consumo elétrico de aparelhos domésticos, estima o custo mensal e gera dicas de economia.
 `Java` `OOP` `Algoritmos` `Testes Unitários`
+
 ---
 
 ## 📊 Estatísticas do GitHub
