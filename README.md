@@ -35,8 +35,8 @@ Atualmente focado em desenvolvimento web.
 Ferramenta que compara dois textos e calcula o grau de similaridade entre eles, identificando possíveis plágios usando os algoritmos de Jaccard e Cosseno.
 Python NLP Algoritmos Pytest
 
-🔹 Analisador de Consumo de Energia
-Aplicação que calcula o consumo elétrico de aparelhos domésticos, estima o custo mensal na conta de luz e gera dicas de economia personalizadas.
+🔹### 🔹 [Analisador de Consumo de Energia](https://github.com/DeluxeOfc/analisador-energia)
+Calcula o consumo elétrico de aparelhos domésticos, estima o custo mensal e gera dicas de economia.
 `Java` `OOP` `Algoritmos` `Testes Unitários`
 ---
 
