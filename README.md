@@ -9,7 +9,7 @@ Atualmente focado em desenvolvimento web.
 
 - 🌱 Atualmente se formando em ciências da computação
 - 📍 Localização: Minas Gerais, Brasil
-- 💬 Me pergunte sobre: Git, GitHub, Python, HTML, CSS, PHP e C/C++
+- 💬 Me pergunte sobre: Git, GitHub, Python, HTML, CSS, PHP, C/C++, Java e JavaScript
 - 📫 Contato: deluxe.xxx.666@gmail.com
 
 ---
@@ -51,7 +51,7 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil](https://github.com/DeluxeOfc))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
 
 ---
