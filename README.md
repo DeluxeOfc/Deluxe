@@ -51,8 +51,8 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/seu-perfil](https://www.instagram.com/deluxe_x_ofc?igsh=Y2NwbjB1bGc2YWV1))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-maurilio-58a688365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deluxe_x_ofc?igsh=Y2NwbjB1bGc2YWV1)
 
 ---
 
